@@ -1,0 +1,15 @@
+.body_background {
+    background-image: url("pngtree-colorful-vecoter-kids-school-background-birthday-banner-card-cartoon-game-fun-image_720391.jpg");
+    background-position:center;
+    background-size:cover;
+}
+h1{
+    color:rgba(255, 0, 0, 0.966);
+    font-size:40px;
+
+}
+#mycanvas{
+    border-width:10px;
+    background-color:white;
+    border-style:ridge
+}    
